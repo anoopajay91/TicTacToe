@@ -1,3 +1,10 @@
+#################################
+#                               #
+#     Author: Anoop S           #
+#                               #
+#################################
+
+
 print "welcome to tic - tac - toe game"
 #dictionary containing null values initially, corresponds to values on board
 d = {1:' ',2:' ',3:' ',4:' ',5:' ',6:' ',7:' ',8:' ',9:' '}
